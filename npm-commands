@@ -1,0 +1,2 @@
+npm view webpack versions
+npm list -g --depth=0
