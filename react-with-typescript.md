@@ -6,6 +6,7 @@
 - https://github.com/Microsoft/TypeScript-React-Conversion-Guide
 - https://github.com/rokoroku/react-mobx-typescript-boilerplate
 - https://github.com/iRath96/electron-react-typescript-boilerplate
+- https://github.com/nossika/react-webpack-typescript-starter
 ## redux
 - https://github.com/concretesolutions/redux-zero
 
