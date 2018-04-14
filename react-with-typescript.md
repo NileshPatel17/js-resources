@@ -10,3 +10,9 @@
 ## redux
 - https://github.com/concretesolutions/redux-zero
 
+## jest
+- https://github.com/Armour/express-webpack-react-redux-typescript-boilerplate
+- https://github.com/PadamSandhu/Jest-Enzyme-react-redux-typescript-jenkins-example
+- https://github.com/nfq-eta/react-typescript/blob/master/package.json
+- https://github.com/jupl/astraea
+- https://github.com/johnsabath/typescript-react-webpack-babel-jest-starter
