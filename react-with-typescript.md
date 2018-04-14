@@ -1,4 +1,6 @@
 ## React with Typescript
+- https://github.com/wmonk/create-react-app-typescript
+- https://github.com/rjz/typescript-react-redux
 - https://github.com/piotrwitek/react-redux-typescript-guide
 - https://github.com/ant-design/ant-design
 - https://github.com/lyft/react-javascript-to-typescript-transform
@@ -7,6 +9,8 @@
 - https://github.com/rokoroku/react-mobx-typescript-boilerplate
 - https://github.com/iRath96/electron-react-typescript-boilerplate
 - https://github.com/nossika/react-webpack-typescript-starter
+- https://github.com/flandrade/react-events-typescript
+
 ## redux
 - https://github.com/concretesolutions/redux-zero
 
