@@ -6,3 +6,6 @@
 
 ## React Context API
 - Migrating from Redux to the New React Context API https://www.youtube.com/watch?v=ISgz8F9z0aM
+
+## General
+- https://github.com/leighhalliday/easy-mobx-redux-comparison
