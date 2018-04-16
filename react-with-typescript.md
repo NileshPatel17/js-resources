@@ -10,7 +10,7 @@
 - https://github.com/iRath96/electron-react-typescript-boilerplate
 - https://github.com/nossika/react-webpack-typescript-starter
 - https://github.com/flandrade/react-events-typescript
-
+- https://github.com/piotrwitek/react-redux-typescript-webpack-starter
 ## redux
 - https://github.com/concretesolutions/redux-zero
 
