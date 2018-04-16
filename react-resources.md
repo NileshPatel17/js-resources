@@ -9,3 +9,4 @@
 
 ## General
 - https://github.com/leighhalliday/easy-mobx-redux-comparison
+- https://github.com/mhaagens/react-mobx-react-router4-boilerplate
