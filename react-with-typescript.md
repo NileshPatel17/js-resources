@@ -13,6 +13,8 @@
 - https://github.com/piotrwitek/react-redux-typescript-webpack-starter
 - https://github.com/amalto/platform6-ui-components
 - https://github.com/hckrmoon/React16-TypeScript-Starter/blob/master/tslint.json
+- https://github.com/adyry/redux-recipes-app
+- https://github.com/lnked/react-starter
 
 ## koa, react and typescript
 - https://github.com/suguanYang/manager
