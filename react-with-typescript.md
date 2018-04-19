@@ -15,6 +15,7 @@
 - https://github.com/hckrmoon/React16-TypeScript-Starter/blob/master/tslint.json
 - https://github.com/adyry/redux-recipes-app
 - https://github.com/lnked/react-starter
+- https://github.com/nonoroazoro/typescript-react-boilerplate
 
 ## koa, react and typescript
 - https://github.com/suguanYang/manager
