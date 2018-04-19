@@ -11,6 +11,12 @@
 - https://github.com/nossika/react-webpack-typescript-starter
 - https://github.com/flandrade/react-events-typescript
 - https://github.com/piotrwitek/react-redux-typescript-webpack-starter
+- https://github.com/amalto/platform6-ui-components
+- https://github.com/hckrmoon/React16-TypeScript-Starter/blob/master/tslint.json
+
+## koa, react and typescript
+- https://github.com/suguanYang/manager
+
 ## redux
 - https://github.com/concretesolutions/redux-zero
 
