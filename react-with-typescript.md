@@ -19,6 +19,7 @@
 ### 21-Apr 2018
 - https://github.com/cantux/typescript-react-redux-reselect-immutablejs
 - https://github.com/kevinblade/react-redux-saga-typescript-start
+- https://github.com/LightningVII/dissect-awesome-react-bucket
 
 ## koa, react and typescript
 - https://github.com/suguanYang/manager
