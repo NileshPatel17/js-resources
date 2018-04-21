@@ -16,7 +16,7 @@
 - https://github.com/adyry/redux-recipes-app
 - https://github.com/lnked/react-starter
 - https://github.com/nonoroazoro/typescript-react-boilerplate
-
+### 21-Apr 2018
 - https://github.com/cantux/typescript-react-redux-reselect-immutablejs
 - https://github.com/kevinblade/react-redux-saga-typescript-start
 
