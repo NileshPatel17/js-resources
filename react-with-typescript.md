@@ -16,6 +16,7 @@
 - https://github.com/adyry/redux-recipes-app
 - https://github.com/lnked/react-starter
 - https://github.com/nonoroazoro/typescript-react-boilerplate
+- https://github.com/cantux/typescript-react-redux-reselect-immutablejs
 
 ## koa, react and typescript
 - https://github.com/suguanYang/manager
