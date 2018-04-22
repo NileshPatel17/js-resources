@@ -21,6 +21,10 @@
 - https://github.com/kevinblade/react-redux-saga-typescript-start
 - https://github.com/LightningVII/dissect-awesome-react-bucket
 
+### 22-Apr 2018
+- https://github.com/256cats/fullstack-koa-react-redux-typescript
+- https://github.com/hung-phan/koa-react-isomorphic
+
 ## koa, react and typescript
 - https://github.com/suguanYang/manager
 
