@@ -27,6 +27,7 @@
 
 ### 29-Apr 2018
 - https://github.com/adhrinae/ts-react-parcel
+- https://github.com/zdanowiczkonrad/universal-typescript-react
 
 ## koa, react and typescript
 - https://github.com/suguanYang/manager
