@@ -25,6 +25,9 @@
 - https://github.com/256cats/fullstack-koa-react-redux-typescript
 - https://github.com/hung-phan/koa-react-isomorphic
 
+### 29-Apr 2018
+- https://github.com/adhrinae/ts-react-parcel
+
 ## koa, react and typescript
 - https://github.com/suguanYang/manager
 
