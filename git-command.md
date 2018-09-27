@@ -1,4 +1,4 @@
-### Git: checkout files or directories from another branch
+## Git: checkout files or directories from another branch
 
 #### Checking out a file:
 ```
