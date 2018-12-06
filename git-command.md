@@ -23,3 +23,8 @@ $ git commit -m "Get a file from the feature branch"
 ```
 $ git checkout feature-branch -- src/js/
 ```
+
+#### Checking out a file from a different branch
+```
+$ git checkout feature/excel-validation -- src/utils/excel/parser.ts
+```
