@@ -28,3 +28,9 @@ $ git checkout feature-branch -- src/js/
 ```
 $ git checkout feature/excel-validation -- src/utils/excel/parser.ts
 ```
+
+#### git stash apply
+If one is on a Windows machine and in PowerShell, one needs to quote the argument such as:
+```
+git stash apply "stash@{0}"
+```
