@@ -34,3 +34,5 @@ If one is on a Windows machine and in PowerShell, one needs to quote the argumen
 ```
 git stash apply "stash@{0}"
 ```
+#### setup upstream
+https://gist.github.com/CristinaSolana/1885435
