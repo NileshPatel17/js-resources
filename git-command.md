@@ -8,6 +8,9 @@ $ git checkout master
 # Then grab the needed file
 $ git checkout feature-branch -- src/js/some-file.js
 
+# checkout from the current branch
+$ git checkout HEAD name_of_file
+
 # The thee is now dirty
 $ git status
 On branch master
