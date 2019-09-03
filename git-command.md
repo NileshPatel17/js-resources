@@ -39,3 +39,6 @@ git stash apply "stash@{0}"
 ```
 #### setup upstream
 https://gist.github.com/CristinaSolana/1885435
+
+#### amend
+git commit --amend -m "New and correct message"
