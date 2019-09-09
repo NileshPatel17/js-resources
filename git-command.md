@@ -44,4 +44,4 @@ https://gist.github.com/CristinaSolana/1885435
 git commit --amend -m "New and correct message"
 
 #### cherry-pick
-git cherry-pick <commit-id>
+git cherry-pick commit_id
