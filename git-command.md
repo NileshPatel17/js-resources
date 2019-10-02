@@ -48,13 +48,13 @@ git cherry-pick commit_id
 
 ## Git: Checking Out GitHub Pull Requests Locally
 let us say PR No is 1234
-step 1:
+#### step 1:
 ```
 git fetch origin pull/1234/head:pr-1234
 ```
-step 2:
+#### step 2:
 ```
 git checkout pr-1234
 ```
-### Reference: https://blog.scottlowe.org/2015/09/04/checking-out-github-pull-requests-locally/
+Reference: https://blog.scottlowe.org/2015/09/04/checking-out-github-pull-requests-locally/
 
