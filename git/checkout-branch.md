@@ -31,3 +31,8 @@ $ git checkout feature-branch -- src/js/
 ```
 $ git checkout feature/excel-validation -- src/utils/excel/parser.ts
 ```
+
+### hard reset
+```
+$ git reset --HARD origin/master
+```
