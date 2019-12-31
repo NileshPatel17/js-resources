@@ -1,0 +1,2 @@
+- [How to cache all pages in Next.js at server side](https://medium.com/@igordata/how-to-cache-all-pages-in-next-js-at-server-side-1850aace87dc)
+-
