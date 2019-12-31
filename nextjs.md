@@ -1,2 +1,3 @@
 - [How to cache all pages in Next.js at server side](https://medium.com/@igordata/how-to-cache-all-pages-in-next-js-at-server-side-1850aace87dc)
--
+- [nextjs exampls](https://github.com/zeit/next.js/tree/master/examples)
+- [Persistent Layout Patterns in Next.js](https://adamwathan.me/2019/10/17/persistent-layout-patterns-in-nextjs/)
