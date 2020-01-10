@@ -1,2 +1,3 @@
 - [Video Stream in React Native app](http://dl.mytehmovies.com/94/series/game.of.throne/s3/Game.of.Thrones.S03E01.480p.Tehmovies_bid.mkv)
 - [How To Handle Deep Linking in a React Native App](https://blog.jscrambler.com/how-to-handle-deep-linking-in-a-react-native-app/)
+- [Securing React Native Applications](https://blog.jscrambler.com/securing-react-native-applications/)
