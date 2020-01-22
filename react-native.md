@@ -3,4 +3,4 @@
 - [Securing React Native Applications](https://blog.jscrambler.com/securing-react-native-applications/)
 - [Creating Swipeable Gestures with React Native Gesture Handler](https://blog.jscrambler.com/creating-swipeable-gestures-with-react-native-gesture-handler/)
 - [Implementing React Native Push Notifications in Android Apps](https://blog.jscrambler.com/implementing-react-native-push-notifications-in-android-apps/)
-- [How to react-native](https://www.youtube.com/watch?v=ZySMyYDPiCw&list=PLUzgQ3V9t75NTjEeL-1VB64V9nk2XovXz&index=1)
+- [How to react-native MoOx](https://www.youtube.com/watch?v=ZySMyYDPiCw&list=PLUzgQ3V9t75NTjEeL-1VB64V9nk2XovXz&index=1)
