@@ -1,5 +1,8 @@
-How to push to a branch of a different name on Git
+### How to push to a branch of a different name on Git
 
+```
+git push origin <old-branch>:<new-branch>
+```
 For example, if you want to push a branch called some-branch to my-feature:
 
 (some-branch)$ git push origin some-branch:my-feature
@@ -8,7 +11,11 @@ To github.com:johnmosesman/burner-repo.git
  + 728f0df...8bf04ea some-branch -> my-feature
 
 
-How to push all local branches to the remote
+### How to push all local branches to the remote:
+
+```
+git push --all
+```
 
 (main)$ git branch
 * main
